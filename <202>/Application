@@ -1,1 +1,3 @@
+public static void main(String[] args), выводящий в консоль фразу:
+«I’m <Имя> <Фамилия>, and I’m not a monkey»
 
